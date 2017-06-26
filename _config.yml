@@ -1,3 +1,7 @@
 name: Tehom's Dev Blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-cayman
+repository: tehomcd/tehomcd.github.io
+title: Tehom's Dev Blog
+description: Learning from mistakes. Many, many, many mistakes.
